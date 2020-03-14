@@ -103,7 +103,7 @@ public class ModelPlayer extends ModelBiped
         /**
         * 🌟HERE
         */
-        this.cosmeticItems.RenderItems(entityIn.isSneaking(), entityIn, 1);
+        this.cosmeticItems.render(entityIn.isSneaking(), entityIn, 1);
         
         GlStateManager.popMatrix();
     }
