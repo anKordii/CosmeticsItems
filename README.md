@@ -2,7 +2,7 @@
 <h1>Cosmetics Wings</h1>
 
 <p>with downloading texture from Url</p>
-<img src="">
+<img src="https://i.imgur.com/G07Ni1K.png">
 
 <h1>Note:</h1>
 <li>If you using cloudflare for domain you need disable protection for subdomain</li>
