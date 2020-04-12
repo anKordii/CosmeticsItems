@@ -1,5 +1,5 @@
 
-<h1>Cosmetics Wings</h1>
+<h1>CosmeticsItems</h1>
 
 <p>with downloading texture from Url</p>
 <img src="https://i.imgur.com/G07Ni1K.png">
